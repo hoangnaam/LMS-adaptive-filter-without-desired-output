@@ -1,2 +1,2 @@
 # LMS-adaptive-filter-without-desired-output
-This filter could get rid of noise (fan hum, electric hum, repetitive mechanical noise, voice echo (from speaker)) from the input signal
+This filter could get rid of some noise such as: Fan hum, electric hum, repetitive mechanical noise, voice echo (noise is stationary or predictable) from the input signal.
